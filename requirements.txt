@@ -1,4 +1,7 @@
 pyrogram
+tgcrypto
 pyromod
 flask
-tgcrypto
+requests
+gunicorn
+
